@@ -63033,6 +63033,17 @@
    "Year": 2014,
    "City": "Sochi",
    "Sport": "Skiing",
+   "Discipline": "Snowboard",
+   "Athlete": "MALTAIS, Dominique",
+   "Country": "CAN",
+   "Gender": "Women",
+   "Event": "Snowboard Cross",
+   "Medal": "Silver"
+ },
+ {
+   "Year": 2014,
+   "City": "Sochi",
+   "Sport": "Skiing",
    "Discipline": "Ski Jumping",
    "Athlete": "KRAUS, Marinus",
    "Country": "GER",
