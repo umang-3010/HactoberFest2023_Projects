@@ -1,4 +1,4 @@
-# socialmediaAPP
+# HacktoberFest2023_Projects
 
 Hacktoberfest-2023
 
