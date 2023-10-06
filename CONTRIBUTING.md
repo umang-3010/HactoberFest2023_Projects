@@ -1,4 +1,4 @@
-# HacktoberFest2023_Projects
+# HaccktoberFest2023_Projects
 
 Hacktoberfest-2023
 
@@ -25,7 +25,6 @@ Hacktoberfest-2023
 
 ```
 git clone https://github.com/gowkar69/HacktoberFest2023_Projects
-
 ```
 - Navigate to project directory.
 ```
@@ -57,7 +56,7 @@ git push origin my-new-branch
 <br>
 
 ## Swags of Hacktoberfest:
-- Many of the candidates get attracted towards hacktoberfest to get swags . So, after 4 successfully merged pull request as for 2022 you will be eligible to get a Hacktoberfest T-shirt and Some stickers on your doorstep.
+- Many of the candidates get attracted towards hacktoberfest to get swags . So, after 4 successfully merged pull request as for 2022 you will be eligible to get Hacktoberfest Swags
  
   
 
