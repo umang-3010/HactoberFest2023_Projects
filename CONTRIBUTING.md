@@ -1,4 +1,4 @@
-# HaccktoberFest2023_Projects
+# HacktoberFest2023_Projects
 
 Hacktoberfest-2023
 
